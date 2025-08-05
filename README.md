@@ -1,9 +1,6 @@
 
 # 🧠 Quiz Interativo para Programadores
 
-🚀 Acesse o quiz online: [Clique aqui para jogar](https://moiseslana.github.io/Quiz_para_Programadores/)
-
----
 
 Oi! Seja bem-vindo ao meu projeto de quiz feito com HTML e CSS.  
 Criei esse quiz com muito carinho para ajudar quem está começando a testar seus conhecimentos em programação — de um jeito simples, divertido e sem complicação.
