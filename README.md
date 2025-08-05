@@ -41,21 +41,8 @@ Tudo isso usando só **HTML** e **CSS**.
 
 ## 👤 Sobre mim
 
-Me chamo **Henry**, sou estudante de programação e estou sempre tentando colocar em prática o que aprendo.  
+Meu nome é **Moisés**, sou estudante de programação e estou sempre tentando colocar em prática o que aprendo.  
 Esse projeto é mais um passo na minha jornada. 
-
----
-
-## 💡 Como testar
-
-1. Faça o download ou clone este repositório:
-```bash
-git clone https://github.com/MoisesLana/Quiz_para_Programadores.git
-```
-
-2. Abra o arquivo `index.html` no navegador.
-
-3. Responda o quiz e veja sua pontuação! ✨
 
 ---
 
